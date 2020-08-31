@@ -1,4 +1,5 @@
 # IVM
 Inventory management system
-Build with Java
-Database Mysql
+Frontend : Java, Java Swing
+Database : Mysql
+Built a easy to use desktop app for local grocers to manage their inventory.
